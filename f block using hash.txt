@@ -1,0 +1,36 @@
+//F block using hash(#)
+
+//Write a C program to print a block F using hash (#), where the F has a height of six characters and width of five and four characters.
+#include <stdio.h>
+
+void main()
+
+{
+
+   printf(“######\n”);
+
+   printf(“#\n”);
+
+   printf(“####\n”);
+
+   printf(“#\n”);
+
+   printf(“#\n”);
+
+   printf(“#\n”);
+
+}
+
+Output:
+
+######
+
+#
+
+####
+
+#
+
+#
+
+#
