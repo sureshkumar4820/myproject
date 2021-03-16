@@ -7,21 +7,21 @@ void main()
 
 {
 
-   printf(“######\n”);
+   printf(â€œ######\nâ€);
 
-   printf(“#\n”);
+   printf(â€œ#\nâ€);
 
-   printf(“####\n”);
+   printf(â€œ####\nâ€);
 
-   printf(“#\n”);
+   printf(â€œ#\nâ€);
 
-   printf(“#\n”);
+   printf(â€œ#\nâ€);
 
-   printf(“#\n”);
+   printf(â€œ#\nâ€);
 
 }
 
-Output:
+Output-------
 
 ######
 
