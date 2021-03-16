@@ -1,0 +1,3 @@
+CREATE TABLE registration (
+uname varchar(25) NOT NULL, pass varchar(25) NOT NULL, email varchar(25) NOT NULL, phno bigint(10) NOT NULL, UNIQUE KEY (uname)
+)
